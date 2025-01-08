@@ -1,24 +1,9 @@
-# README
+# Aplicacion de consumo de API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+En esta app estoy consumiendo mi lista de contactos.
 
-Things you may want to cover:
+Se realizo:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Peticion al URL
+-Creacion de Key
+-Vista
