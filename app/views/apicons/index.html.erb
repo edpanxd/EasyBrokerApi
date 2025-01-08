@@ -1,0 +1,10 @@
+<h1 class="agbalumo-regular">Mis contactos de EasyBroker: </h1>
+<section class="flex">
+  <% @content_hash.each do |id, item| %>
+  <div class="card">
+    <p>ID: <%= id %></p>
+    <p>Nombre: <%= item["full_name"] %></p>
+    <p>Teléfono: <%= item["phone"] %></p>
+  </div>
+  <% end %>
+</section>
